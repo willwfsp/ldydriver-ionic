@@ -1,4 +1,4 @@
-#ldydriver
+# ldydriver
 
 ## Ambiente
 
@@ -28,14 +28,6 @@ sudo npm install -g cordova
 
 Agora instale o Ionic.
 
-```
+``` shell
 sudo npm install -g ionic
 ```
-
-
-
-
-
-
-
- ldydriver-ionic
